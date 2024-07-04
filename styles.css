@@ -20,7 +20,7 @@ body{
     margin: 20px auto 10px 50px;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(lightskyblue, white);  
+    
 }
 
 .image img{
